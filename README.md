@@ -33,7 +33,7 @@ Share quickly your contact with other people by simply clicking a button and pla
 * Immediately after cloning the repo you need to run one of the following commands (depending on the handler used) to align the libraries: ```yarn or npm install```
 * Then run ```expo start``` to start the expo server and run the app on a device.
 
-### Executing program
+### Build APK
 
 * currently to build the app there are two tools, the native expo and the new EAS tool. We strongly suggest you use the latter since expo build will be discontinued on January 4, 2023 (184 days away). If you would still like to try both tools, just run ```expo build:android``` or use the following instructions:
 
@@ -59,13 +59,6 @@ Feel free to contact me with any questions
 * Alessandro Di Patria
 * Daniele Ciammaroni
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
