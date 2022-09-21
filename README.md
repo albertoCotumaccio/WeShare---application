@@ -46,10 +46,8 @@ Share quickly your contact with other people by simply clicking a button and pla
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Feel free to contact me with any questions
+
 
 ## Authors :thumbsup:
 
