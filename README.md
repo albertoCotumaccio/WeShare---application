@@ -9,7 +9,7 @@ Mobile application based on NFC tech, exchanging your own contact with other use
 
 [![Github](https://img.shields.io/github/followers/albertoCotumaccio?style=social.svg)](https://github.com/albertoCotumaccio/WeShare---application/blob/main/README.md) 
 
-[![Twitter]([https://img.shields.io/twitter/follow/albecotu?style=social.svg](https://github.com/albertoCotumaccio/WeShare---application/blob/main/README.md))]
+[![Twitter](https://img.shields.io/twitter/follow/albecotu?style=social.svg)](https://github.com/albertoCotumaccio/WeShare---application/blob/main/README.md)
 [![Travis](https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg)](http://github.com/cezaraugusto/github-template-guidelines)
 
 Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
