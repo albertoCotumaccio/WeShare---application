@@ -38,7 +38,10 @@ Share quickly your contact with other people by simply clicking a button and pla
 * currently to build the app there are two tools, the native expo and the new EAS tool. We strongly suggest you use the latter since expo build will be discontinued on January 4, 2023 (184 days away). If you would still like to try both tools, just run ```expo build:android``` or use the following instructions:
 
 ```
-code blocks for commands
+- from terminal run npm install -g eas-cli
+- create a profile with your personal settings for the apk
+- create an account on expo (https://expo.dev/signup)
+- from terminal type eas build -p android --profile [NAMEPROFILE]
 ```
 
 ## Help
