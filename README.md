@@ -15,11 +15,11 @@ Share quickly your contact with other people by simply clicking a button and pla
 <br>
 <p align="center">
 <strong>This project includes:</strong>
-<a href="/.github/README.md">README</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/App">APPPLICATION CODE</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a></a>
+<a href="/.github/README.md">README</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/App">APPPLICATION CODE</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a>
 </p>
 <br>
 
-
+https://github.com/albertoCotumaccio/WeShare---application/blob/main/LICENSE.md
 ## Getting Started
 
 ### Introduction
