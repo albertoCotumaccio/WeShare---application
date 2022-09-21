@@ -1,6 +1,6 @@
 ## WeShare: an NFC application
 
-This project was carried out for the Human Computer Interaction exam, Master degree in Computer Science at Sapienza - June 2022
+This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
 
 <img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
