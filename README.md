@@ -52,7 +52,9 @@ command to run if program contains helper info
 
 * [Alberto Cotumaccio](https://it.linkedin.com/in/alberto-cotumaccio-8b8443229?trk=people-guest_people_search-card)
 * Giovanni Montobbio
-* Vincenzo Romito
+* Matteo Basile
+* Alessandro Di Patria
+* Daniele Ciammaroni
 
 ## Version History
 
