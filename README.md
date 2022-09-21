@@ -22,21 +22,21 @@ Share quickly your contact with other people by simply clicking a button and pla
 
 ## Getting Started
 
-### Useful commands
+### Introduction
 
-* We used expo to work on the code, currently the sdk is at version 45, should it update use the command expo update or expo update sdk
+* We used expo to work on the code, currently the sdk is at version 45, should it update use the command ```expo update``` or ```expo update sdk```
 * We strongly suggest using Visual Studio Code as your IDE and the Git Lens plugin for Visual Studio, we have been very comfortable with this setup
 
 ### Installing
 
-* To run our project, navigate to the directory and you can use both yarn and npm (we suggest yarn to fix all possible incompatibilities between the various installed libs )
+* To run our project, navigate to the directory and you can use both ```yarn``` and ```npm``` (we suggest yarn to fix all possible incompatibilities between the various installed libs )
 * Immediately after cloning the repo you need to run one of the following commands (depending on the handler used) to align the libraries: ```yarn or npm install```
-* Then run expo start to start the expo server and run the app on a device.
+* Then run ```expo start``` to start the expo server and run the app on a device.
 
 ### Executing program
 
-* currently to build the app there are two tools, the native expo and the new EAS tool. We strongly suggest you use the latter since expo build will be discontinued on January 4, 2023 (184 days away). If you would still like to try both tools, just run expo build:android or use the following instructions:
-* Step-by-step bullets
+* currently to build the app there are two tools, the native expo and the new EAS tool. We strongly suggest you use the latter since expo build will be discontinued on January 4, 2023 (184 days away). If you would still like to try both tools, just run ```expo build:android``` or use the following instructions:
+
 ```
 code blocks for commands
 ```
