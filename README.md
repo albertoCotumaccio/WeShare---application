@@ -14,7 +14,7 @@ So you had an idea and developed the next world's industry-changing application.
 <br>
 <p align="center">
 <strong>This project includes:</strong>
-<a href="/.github/README.md">README</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/App">APP</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a></a>
+<a href="/.github/README.md">README</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/App">APPPLICATION CODE</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a></a>
 </p>
 <br>
 
