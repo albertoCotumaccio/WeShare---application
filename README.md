@@ -7,8 +7,8 @@ Mobile application based on NFC tech, exchanging your own contact with other use
 
 > This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
 
-[![Under Development](https://img.shields.io/github/followers/albertoCotumaccio?style=social.svg)](https://github.com/albertoCotumaccio/WeShare---application/blob/main/README.md) 
-[![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
+[![Github](https://img.shields.io/github/followers/albertoCotumaccio?style=social.svg)](https://github.com/albertoCotumaccio/WeShare---application/blob/main/README.md) 
+[![Twitter]([https://img.shields.io/badge/public-domain-lightgrey.svg](https://img.shields.io/twitter/follow/albecotu?style=social.svg))](https://creativecommons.org/publicdomain/zero/1.0/) 
 [![Travis](https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg)](http://github.com/cezaraugusto/github-template-guidelines)
 
 Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
