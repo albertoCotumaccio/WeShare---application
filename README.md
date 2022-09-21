@@ -1,11 +1,11 @@
 ## WeShare: an NFC application
 
-This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
+⚪Mobile application based on NFC tech, exchanging your own contact with other users
 
 <img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> Template files for writing maintanable GitHub projects. Make your repo pretty!
+> This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
 
 [![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg)](http://github.com/cezaraugusto/github-template-guidelines)
 
