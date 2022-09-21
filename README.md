@@ -29,7 +29,7 @@ So you had an idea and developed the next world's industry-changing application.
 ### Installing
 
 * To run our project, navigate to the directory and you can use both yarn and npm (we suggest yarn to fix all possible incompatibilities between the various installed libs )
-* Immediately after cloning the repo you need to run one of the following commands (depending on the handler used) to align the libraries: yarn or npm install
+* Immediately after cloning the repo you need to run one of the following commands (depending on the handler used) to align the libraries: ```yarn or npm install```
 * Then run expo start to start the expo server and run the app on a device.
 
 ### Executing program
