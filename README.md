@@ -1,31 +1,76 @@
-# WE SHARE 
+## WeShare: an NFC application
 
-![Alt text](/App/assets/images/logo.png)
+This project was carried out for the Advanced Software Engineering exam, Master degree in Computer Science at Sapienza - September 2022
+
+<img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
+<img align="left" width="0" height="192px" hspace="10"/>
+
+> Template files for writing maintanable GitHub projects. Make your repo pretty!
+
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg)](http://github.com/cezaraugusto/github-template-guidelines)
+
+So you had an idea and developed the next world's industry-changing application. You decided to open-source it because you're way cool. Now you need to educate people about your project and need some docs to get started. You got it. :alien:
+
+<br>
+<p align="center">
+<strong>Templates included:</strong>
+<a href="/.github/README.md">README</a> • <a href="/.github/CONTRIBUTING.md">CONTRIBUTING </a> • <a href="/.github/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> • <a href="/.github/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a> • <a href="/.github/CONTRIBUTORS.md">CONTRIBUTORS</a>
+</p>
+<br>
 
 
-Welcome to WeShare, the new way to quickly share contacts!!!
+## Getting Started
 
-The project started as a university project for the Human Computer Interaction On The Web course, it is proposed to exchange contacts between two or more users through the NFC technology.
+### Dependencies
 
-In this version, the base of the application is proposed, with the following features:
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-    1. create, edit and delete a card 
-    2. possibility to exchange links of Facebook, Instagram, Linkedin, Twitter 
-    3. save a card on the contact page
-    4. search for a contact on the page and view all the information that a contact has exchanged with us
+### Installing
 
-What is currently not working:
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-    1. sometimes the contact is not saved on the contact page
-    2. the input is not responsive in the whole area, but only near the placeholder
-    3. the stack is not reset when changing a page from the panel
+### Executing program
 
-Future implementations: 
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
-    1. persistent database
-    2. NFC technology (unfortunately, we could not implement it due to the library's icompatibility with Expo)
-    3. feature that allows to share a contact with multiple users
-    4. more options in the settings to customize the app
+## Help
 
-Unfortunately we don't know if we will be able to complete the app, as we have finished the exam, maybe one day in spare time we will finish the app. 
-### If you want to contribute, feel free to create a fork from this repo and don't forget to thank Us.
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors :thumbsup:
+
+> Those who participated in the creation of the project are listed here
+
+* [Alberto Cotumaccio](https://it.linkedin.com/in/alberto-cotumaccio-8b8443229?trk=people-guest_people_search-card)
+* Giovanni Montobbio
+* Vincenzo Romito
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
