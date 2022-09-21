@@ -1,6 +1,6 @@
-## WeShare: an NFC application
+## ⚪ WeShare: an NFC application
 
-⚪Mobile application based on NFC tech, exchanging your own contact with other users
+Mobile application based on NFC tech, exchanging your own contact with other users
 
 <img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
