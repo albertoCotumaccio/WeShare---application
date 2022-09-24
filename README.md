@@ -16,7 +16,7 @@ The implementation of the project was not completed due to timing questions. A p
 <br>
 <p align="center">
 <strong>This project includes:</strong>
-<a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/blob/main/LICENSE.md">LICENSE</a>
+<a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a><a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/blob/main/LICENSE.md">LICENSE</a>
 </p>
 <br>
 
