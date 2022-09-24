@@ -11,7 +11,7 @@ Mobile application based on NFC technology, exchanging your own contact with oth
 [![Twitter](https://img.shields.io/twitter/follow/albecotu?style=social.svg)](https://twitter.com/Albecotu)
 
 Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
-The implementation of the project was not completed due to timing questions. A possible presecution of it is not excluded.
+The implementation of the project was not completed due to time issues. A possible presecution of it is not excluded.
 
 <br>
 <p align="center">
