@@ -1,6 +1,6 @@
 ## ⚪ WeShare: an NFC application
 
-Mobile application based on NFC tech, exchanging your own contact with other users
+Mobile application based on NFC technology, exchanging your own contact with other users
 
 <img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
@@ -11,11 +11,12 @@ Mobile application based on NFC tech, exchanging your own contact with other use
 [![Twitter](https://img.shields.io/twitter/follow/albecotu?style=social.svg)](https://twitter.com/Albecotu)
 
 Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
+The implementation of the project was not completed due to timing questions. A possible presecution of it is not excluded.
 
 <br>
 <p align="center">
 <strong>This project includes:</strong>
-<a href="/.github/README.md">README</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/App">APPPLICATION CODE</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/blob/main/LICENSE.md">LICENSE</a>
+<a href="https://github.com/albertoCotumaccio/WeShare---application/tree/main/Documents">DOCUMENTATION</a> • <a href="https://github.com/albertoCotumaccio/WeShare---application/blob/main/LICENSE.md">LICENSE</a>
 </p>
 <br>
 
@@ -24,18 +25,18 @@ Share quickly your contact with other people by simply clicking a button and pla
 
 ### Introduction
 
-* We used expo to work on the code, currently the sdk is at version 45, should it update use the command ```expo update``` or ```expo update sdk```
-* We strongly suggest using Visual Studio Code as your IDE and the Git Lens plugin for Visual Studio, we have been very comfortable with this setup
+* We used expo framework to work on the code, currently the sdk is at version 45, to update it use the command ```expo update``` or ```expo update sdk```.
+* We strongly suggest using Visual Studio Code as your IDE and the Git Lens plugin for Visual Studio, we have been very comfortable with this setup.
 
 ### Installing
 
-* To run our project, navigate to the directory and you can use both ```yarn``` and ```npm``` (we suggest yarn to fix all possible incompatibilities between the various installed libs )
+* To run our project, navigate to the directory and you can use both ```yarn``` and ```npm``` (we suggest yarn to fix all possible incompatibilities between the various installed libs ).
 * Immediately after cloning the repo you need to run one of the following commands (depending on the handler used) to align the libraries: ```yarn or npm install```
 * Then run ```expo start``` to start the expo server and run the app on a device.
 
 ### Build APK
 
-* currently to build the app there are two tools, the native expo and the new EAS tool. We strongly suggest you use the latter since expo build will be discontinued on January 4, 2023 (184 days away). If you would still like to try both tools, just run ```expo build:android``` or use the following instructions:
+* currently to build the app there are two tools, the native expo and the new EAS tool. We strongly suggest you use the latter since expo build will be discontinued on January 4, 2023. If you would still like to try both tools, just run ```expo build:android``` or use the following instructions:
 
 ```
 - from terminal run npm install -g eas-cli
