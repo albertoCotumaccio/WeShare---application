@@ -1,4 +1,4 @@
-## ⚪ NFC application
+## ⚪ NFC application with React Native
 
 Mobile application based on NFC technology, exchanging your own contact with other users
 
