@@ -1,14 +1,9 @@
-## ⚪ NFC application with React Native
+## NFC application with React Native
 
-Mobile application based on NFC technology, exchanging your own contact with other users
+Mobile application based on NFC technology, exchanging your own contact with other users. This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
 
 <img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
-
-> This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
-
-[![Github](https://img.shields.io/github/followers/albertoCotumaccio?style=social.svg)](https://github.com/albertoCotumaccio?tab=repositories) 
-[![Twitter](https://img.shields.io/twitter/follow/albecotu?style=social.svg)](https://twitter.com/Albecotu)
 
 Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
 The implementation of the project was not completed due to time issues. A possible presecution of it is not excluded.
