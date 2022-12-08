@@ -6,7 +6,7 @@ Mobile application based on NFC technology, exchanging your own contact with oth
 <img align="left" width="0" height="192px" hspace="10"/>
 
 Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
-The implementation of the project was not completed due to time issues. A possible presecution of it is not excluded.
+The part of the NFC technology of the project was not implemented due to time constraints.
 
 <br>
 <p align="center">
