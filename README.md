@@ -1,12 +1,13 @@
 ## NFC application with React Native
 
-Mobile application based on NFC technology, exchanging your own contact with other users. This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
+The final idea of this application involves the use of NFC technology. This project was carried out for the Human Computer Interaction exam. Master degree in Computer Science at Sapienza - June 2022
 
 <img src="App/assets/images/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-Share quickly your contact with other people by simply clicking a button and placing phones nearby. Ability to customize your profile, creating more than one, always ready when needed. Keep track of all the people you met. 📱
-The part of the NFC technology of the project was not implemented due to time constraints.
+WeShare is a Mobile Application that you can use to share quickly your contact profile with other people by simply clicking a button and placing phones nearby. You are free to customize your profile adding the information that you want, creating more than one profiles. The application let you to keep track of all the people you met. 📱
+<br>
+⚠️The part of the NFC technology of the project was not implemented due to time constraints, it has been temporarily replaced with mockups.
 
 <br>
 <p align="center">
